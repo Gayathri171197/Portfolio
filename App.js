@@ -1,8 +1,8 @@
 import React from 'react';
-import Home from 'Home';
-import AboutMe from 'AboutMe';
-import Project from 'Project';
-import Contact from 'Contact';
+import Home from 'Home.js';
+import AboutMe from 'AboutMe.js';
+import Project from 'Project.js';
+import Contact from 'Contact.js';
 import { Routes, Route } from 'react-router-dom';
 import 'style.css';
 
